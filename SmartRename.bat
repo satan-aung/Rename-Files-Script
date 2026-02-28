@@ -27,7 +27,7 @@ if NOT "!pswd!"=="satan-aung" (
 :MAIN_MENU
 cls
 echo ====================================================
-echo          GEMINI SMART RENAME ^& REVERT
+echo                SMART RENAME ^& REVERT
 echo ====================================================
 echo  Target: %targetDir%
 echo ----------------------------------------------------
@@ -64,7 +64,7 @@ if not "%cat%"=="5" (
 
 set /p "dryRun=Enable Dry Run? (Preview Only) [Y/N]: "
 
-:: --- FIXED LOGIC FOR WINDOWS 11 "TC" ERROR ---
+:: --- LOGIC HANDLING ---
 set "sortCmd=n"
 set "timeCmd="
 
