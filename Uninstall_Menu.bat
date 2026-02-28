@@ -6,7 +6,7 @@ set "destFolder=C:\Scripts"
 set "destFile=%destFolder%\SmartRename.bat"
 
 echo ====================================================
-echo      GEMINI SMART RENAME - UNINSTALLER
+echo              SMART RENAME - UNINSTALLER
 echo ====================================================
 echo.
 
@@ -47,6 +47,6 @@ if exist "%destFolder%" (
 echo.
 echo ----------------------------------------------------
 echo UNINSTALL COMPLETE!
-echo The Gemini Smart Rename menu has been removed.
+echo The Smart Rename menu has been removed.
 echo ----------------------------------------------------
 pause
