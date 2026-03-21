@@ -1,6 +1,6 @@
 # Smart Rename & Revert Utility
 
-A professional-grade Windows Batch utility for batch renaming files with advanced sorting, extension filtering, and a safety "Undo" feature.
+A Windows Batch utility for batch renaming files with advanced sorting, extension filtering, and a safety "Undo" feature.
 
 ## 🚀 Features
 - **Right-Click Integration**: Launch directly from any folder in Windows Explorer.
